@@ -1,4 +1,9 @@
 # Exploring-Crime-and-Housing-Relationships
+Group Coursework
+
+
+All rights reserved.
+
 
 
 Datasets:
